@@ -1,5 +1,7 @@
 # Star-rating-feedback
 
+> npm install | yarn
+> npm start  | yarn start
 
 
 ![Screenshot (545)](https://user-images.githubusercontent.com/81863474/120229226-4717dc00-c26a-11eb-82ea-42c4df1b9fdd.png)
