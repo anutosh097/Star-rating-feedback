@@ -1,6 +1,6 @@
 # Star-rating-feedback
 
-##***A star rating component is such an important part to know about customer feedback in diverse domains, whether it is food, restaurants, e-commerce products and all, tried building a simple star rating component with react that responds***##
+***A star rating component is such an important part to know about customer feedback in diverse domains, whether it is food, restaurants, e-commerce products and all, tried building a simple star rating component with react that responds***
 
 > npm install | yarn
 
